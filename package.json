@@ -1,0 +1,23 @@
+{
+  "name": "taskcluster-loop",
+  "version": "0.0.1",
+  "description": "A standard looping system for background jobs of taskcluster components",
+  "main": "lib/loop.js",
+  "scripts": {
+    "test": "test/runtests.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taskcluster/taskcluster-loop.git"
+  },
+  "keywords": [
+    "loop",
+    "background"
+  ],
+  "author": "John Ford <jhford.mozilla@com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/taskcluster/taskcluster-loop/issues"
+  },
+  "homepage": "https://github.com/taskcluster/taskcluster-loop#readme"
+}
